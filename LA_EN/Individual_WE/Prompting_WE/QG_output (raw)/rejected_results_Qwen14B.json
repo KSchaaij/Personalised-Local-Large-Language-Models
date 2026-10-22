@@ -1,0 +1,10 @@
+[
+  {
+    "transcript_id": "43",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 33,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Can you share some of the things that were said?\nInterviewee: Listen, I personally, whatever I did, I did. But I do not want to describe this, because it is a lot of things not pleasant, a lot of them pleasant. I took revenge as a child, I was f — 14 years old. Whatever I did, I did.\nInterviewer: Okay. I was not asking in this sense about you particular — in particular. I was asking more about the behavior of the other troops.\nInterviewee: Listen, some behaved like animals, some behave — they forced them. Specially in Silesia.\n\n\n",
+    "response": "Interviewer: Can you describe any specific instances where you witnessed or experienced the humane treatment of prisoners despite the overall恶劣情况？"
+  }
+]

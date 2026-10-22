@@ -1,0 +1,10 @@
+[
+  {
+    "transcript_id": "10",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 30,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a response from the interviewer (you) with a maximum of three sentences within the dialogue below with the interviewee summarising what has been said without asking a question.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Never ask a question.\n- Address the interviewee in your response.  \n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your summarising response with a maximum of three sentences without questions>\n\nDialogue:\nInterviewer: You — you want to — you okay?\nInterviewee: I am okay. They started to build a new life, getting married. One of the uncle getting married — got married, he — his father got married, we got married. So we started a new life, and after awhile it was okay.\nInterviewer: You met your husband in what year, in —\nInterviewee: Right after when I got home. Actually, he — he used to go out before me with a girl who went to Auschwitz, for awhile, and you know, did not come back. He came — you know, we went out together. We got married — 1956 we started, and ’57 — ah, ’46, and ’47 we got married. And we lived there for awhile peacefully, until you know, the Communist regime. But there wan — was not any way to leave the country that time.\n",
+    "response": "Interviewer: You重建生活后在1946年或1947年与您的丈夫结婚，开始了平静的生活，直到共产主义政权的到来使情况变得复杂，当时没有离开国家的途径。"
+  }
+]
