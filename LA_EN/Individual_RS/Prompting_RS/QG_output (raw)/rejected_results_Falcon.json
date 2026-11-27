@@ -1,0 +1,106 @@
+[
+  {
+    "transcript_id": "43",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "alignment",
+    "turn_index": 10,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n-  Use a very easy to easy language level.\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: How come you did not stay with him?\nInterviewee: I cannot hear you well.\nInterviewer: How come — why is it that you did not stay with your father?\nInterviewee: I do not know, I ca — I have no explanation.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "43",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 4,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Did the kids chase the car or the bus?\nInterviewee: Yeah, used to chase it. Run it after them.\nInterviewer: What were the — what were the Polish people, the Gentile people like in the town?\nInterviewee: Some of them were nice, some of them.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "09",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 55,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: They were definitely American troops?\nInterviewee: American flyers. American Air Force people.\nInterviewer: During the war, how did you perceive what was going on? What, how did it change you?\nInterviewee: I, the feeling of the war, I, did I mention earlier that I worked in this jewelry store?\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "09",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 66,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: So when you talk about the Lubliners, you are talking about the yeshiva ...\nInterviewee: There were just a handful of them.\nInterviewer: ... from the big yeshiva in Lublin.\nInterviewee: Yeah, yeah. Right. Well, they came from there years ago ...\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "09",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 68,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: You did not, not from Germany.\nInterviewee: Not from Germany, oh no, no.\nInterviewer: And your family did not speak Yiddish.\nInterviewee: No, no of course not.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "09",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 81,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: This was through HIAS. Ok. And they were getting backers, anonymous backers ...\nInterviewee: Backers, yeah, anonymous backers, yeah, right.\nInterviewer: Basically, so you never ...\nInterviewee: But I thought they told us not to come in contact with them.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "19",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 15,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Well, then came December 7th, 1941.\nInterviewee: Yeah, well then, of course, they — then —\nInterviewer: Do you remember that day?\nInterviewee: — then things picked up a little bit. Business picked up, everybody had to work.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "17",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "alignment",
+    "turn_index": 17,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n-  Use a very easy to easy language level.\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: And then we have found accounts of how when people were taken from a western area, say the western part of Poland and sent to Auschwitz, cards or letters would be sent back. They would be forced to write to family or friends still back in the west, reporting that things were good, or at least tolerable. That there was enough food to eat and these were letters or cards written just before these people were taken to the gas chambers.\nInterviewee: Not to the ghetto. Nobody in the ghetto got one letter.\nInterviewer: Never received any mail in Lodz.\nInterviewee: Because in the ghetto they took people and, like first time in '42, January in '42, to Chelmno, and they shot them right away. We only knew that something is going on if we saw the clothes coming. What was the clothes coming back? The hospital got some clothes too. We had children. We had friends *** in the hospital. We had to have something for the children to wear. And we got them back, and we knew that it is not from Germany. These are our clothes.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "10",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "alignment",
+    "turn_index": 8,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n-  Use a very easy to easy language level.\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: So now let us — let us try to go back to what we were talking about, you were still telling me about the early moments of German occupation, and I was wondering, just so we make sure and get your chronology right, if you could explain how long you lived with your grandmother, and — and where you went after you moved from there.\nInterviewee: Okay. She passed away 1941, and I went to live with my relatives in Debrecen, so I am — the other city, so I lived there approximately three years. So it was 1944 when the, you know, when the German came in and changed everything. The — the — in that three years I was, you know, studying — I mean, start to learn cosmetic. It was a relatively very busy place, and it was nice. They were nice people over there.\nInterviewer: And how old were you when the Germans came in?\nInterviewee: I was 17 years old. 17. I became 18 in the camp.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "10",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "alignment",
+    "turn_index": 34,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n-  Use a very easy to easy language level.\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Well, I want to —\nInterviewee: I just hope it never happened — never happen ag — never happening again.\nInterviewer: I want to thank you, and I am going to conclude the tape here.\nInterviewee: I thank you to come.\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "10",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 9,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Wa — what was your — what was your name on the false papers?\nInterviewee: Alicia ***. And Eva was Max — Maxtion ***\nInterviewer: And so the two of you —\nInterviewee: It is a Hungarian —\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "08",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 55,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Well, I want to thank you very much for participating in our project.\nInterviewee: You did not understand me that I postponed and postponed.\nInterviewer: I knew you had reasons, but I needed to finish the recordings.\nInterviewee: When will you be finished?\n",
+    "response": ""
+  },
+  {
+    "transcript_id": "08",
+    "model": "tiiuae/Falcon-H1-7B-Instruct",
+    "condition": "baseline",
+    "turn_index": 56,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: I knew you had reasons, but I needed to finish the recordings.\nInterviewee: When will you be finished?\nInterviewer: I cannot tell you that. I do not really know.\nInterviewee: it will be well to be the because. I would go myself to visit to the schools.\n",
+    "response": ""
+  }
+]

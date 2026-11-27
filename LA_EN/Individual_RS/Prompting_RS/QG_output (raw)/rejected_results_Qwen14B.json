@@ -1,0 +1,26 @@
+[
+  {
+    "transcript_id": "16",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 118,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: With what happened on September 11th this year, did that trigger anything for you? The destruction, the loss of life?\nInterviewee: No, I never b — I never brought it in connection with what is happened in Germany. I do not think that ever entered my mind.\nInterviewer: I was thinking the destruction, the loss of life.\nInterviewee: N-No, I never — I never saw any connection with — with Nazism.\n",
+    "response": "Interviewer: Have you found any parallels between historical acts of violence and more recent events that触动你思考人性中的某些方面？"
+  },
+  {
+    "transcript_id": "08",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 46,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: Was it somebody from HIAS?\nInterviewee: I did not know her. She said, “I will be your judge.” My little one said, “Everybody has a judge — that means aunt or somebody — we have nobody, and she overheard and said, “I will be your judge”. And she really became.. and then she died.\nInterviewer: So, you landed in Manhattan? Where did you sleep? You had no place to go.\nInterviewee: No, no, no.. the organization.\n",
+    "response": "Interviewer: Can you tell me more about the organization that helped安置你住的地方？"
+  },
+  {
+    "transcript_id": "08",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 47,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: So, you landed in Manhattan? Where did you sleep? You had no place to go.\nInterviewee: No, no, no.. the organization.\nInterviewer: Ok, HIAS took care of you.\nInterviewee: Not HIAS. You have a good memory. What is it?\n",
+    "response": "Interviewer: Was there another organization that helped安置这个问题的中文回答，以下是根据指令要求提供对应的英文问题：\n\nInterviewer: Do you remember the name of the organization that provided you with shelter and support when you first arrived in Manhattan?"
+  }
+]

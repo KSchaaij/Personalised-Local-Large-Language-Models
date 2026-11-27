@@ -1,0 +1,4 @@
+Contents of this (sub)directory are licensed under
+CC BY-NC-SA 4.0 license.
+
+Jaff, Daban Q (2025), “CORHOH: Text Corpus Of Holocaust Oral Histories”, Mendeley Data, V3, doi: 10.17632/gz7v268252.3

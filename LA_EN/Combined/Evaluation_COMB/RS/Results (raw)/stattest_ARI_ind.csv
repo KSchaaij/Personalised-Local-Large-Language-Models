@@ -1,0 +1,400 @@
+Source,Model,Transcript_nr,Baseline,Alignment,Target mean,Difference
+QG,openai/gpt-oss-20b,2,Standard,Very easy,Very easy,-4.4333333333333345
+QG,openai/gpt-oss-20b,4,Standard,Very easy,Very easy,-2.738095238095239
+QG,openai/gpt-oss-20b,5,Standard,Very easy,Very easy,-5.866666666666667
+QG,openai/gpt-oss-20b,6,Standard,Very easy,Very easy,-9.175
+QG,openai/gpt-oss-20b,11,Standard,Very easy,Very easy,-7.700000000000001
+QG,openai/gpt-oss-20b,12,Standard,Very easy,Very easy,-5.9
+QG,openai/gpt-oss-20b,13,Standard,Very easy,Very easy,-3.7363636363636354
+QG,openai/gpt-oss-20b,14,Standard,Very easy,Very easy,-7.5058823529411764
+QG,openai/gpt-oss-20b,15,Standard,Very easy,Very easy,-2.9222222222222225
+QG,openai/gpt-oss-20b,18,Standard,Very easy,Very easy,-6.944444444444444
+QG,openai/gpt-oss-20b,20,Standard,Very easy,Very easy,-7.303571428571428
+QG,openai/gpt-oss-20b,21,Standard,Very easy,Very easy,-5.909999999999999
+QG,openai/gpt-oss-20b,22,Standard,Very easy,Very easy,-4.562500000000001
+QG,openai/gpt-oss-20b,24,Standard,Very easy,Very easy,-7.681818181818182
+QG,openai/gpt-oss-20b,25,Standard,Very easy,Very easy,-8.348275862068965
+QG,openai/gpt-oss-20b,26,Fairly easy,Very easy,Very easy,-10.35
+QG,openai/gpt-oss-20b,27,Fairly difficult,Very easy,Very easy,-13.5
+QG,openai/gpt-oss-20b,28,Standard,Very easy,Very easy,-7.031249999999999
+QG,openai/gpt-oss-20b,29,Fairly difficult,Very easy,Very easy,-10.65
+QG,openai/gpt-oss-20b,30,Standard,Very easy,Very easy,-7.469565217391303
+QG,openai/gpt-oss-20b,31,Fairly easy,Very easy,Very easy,-5.796551724137931
+QG,openai/gpt-oss-20b,32,Standard,Very easy,Very easy,-6.18888888888889
+QG,openai/gpt-oss-20b,33,Standard,Very easy,Very easy,-4.341860465116279
+QG,openai/gpt-oss-20b,34,Standard,Very easy,Very easy,-9.908695652173913
+QG,openai/gpt-oss-20b,35,Standard,Very easy,Very easy,-8.413888888888888
+QG,openai/gpt-oss-20b,36,Fairly difficult,Very easy,Very easy,-5.899999999999998
+QG,openai/gpt-oss-20b,38,Easy,Very easy,Very easy,-2.325
+QG,openai/gpt-oss-20b,39,Standard,Very easy,Very easy,-8.14186046511628
+QG,openai/gpt-oss-20b,40,Standard,Standard,Very easy,1.1454545454545464
+QG,openai/gpt-oss-20b,41,Standard,Very easy,Very easy,-8.840963855421686
+QG,openai/gpt-oss-20b,42,Fairly easy,Very easy,Very easy,-7.545454545454545
+QG,openai/gpt-oss-20b,44,Fairly easy,Very easy,Very easy,-7.342857142857142
+QG,openai/gpt-oss-20b,45,Fairly easy,Very easy,Very easy,-6.038888888888889
+QG,openai/gpt-oss-20b,46,Standard,Very easy,Very easy,-4.05
+QG,openai/gpt-oss-20b,47,Standard,Very easy,Very easy,-5.387499999999999
+QG,openai/gpt-oss-20b,48,Standard,Very easy,Very easy,-7.375000000000001
+QG,openai/gpt-oss-20b,49,Standard,Very easy,Very easy,-6.1
+QG,openai/gpt-oss-20b,50,Fairly easy,Very easy,Very easy,-6.295833333333333
+QG,openai/gpt-oss-20b,51,Standard,Very easy,Very easy,-4.033333333333334
+QG,openai/gpt-oss-20b,52,Standard,Very easy,Very easy,-4.633333333333333
+QG,Mistral-small,2,Fairly easy,Very easy,Very easy,-2.466666666666667
+QG,Mistral-small,4,Easy,Very easy,Very easy,-1.5095238095238095
+QG,Mistral-small,5,Fairly easy,Very easy,Very easy,-4.52051282051282
+QG,Mistral-small,6,Fairly easy,Very easy,Very easy,-6.64375
+QG,Mistral-small,11,Fairly easy,Very easy,Very easy,-6.303333333333333
+QG,Mistral-small,12,Standard,Very easy,Very easy,-5.799999999999999
+QG,Mistral-small,13,Standard,Very easy,Very easy,-5.515584415584416
+QG,Mistral-small,14,Fairly easy,Very easy,Very easy,-5.047058823529412
+QG,Mistral-small,15,Fairly easy,Very easy,Very easy,-5.111111111111112
+QG,Mistral-small,18,Standard,Very easy,Very easy,-6.3875
+QG,Mistral-small,20,Fairly easy,Very easy,Very easy,-4.582142857142857
+QG,Mistral-small,21,Easy,Very easy,Very easy,-3.1900000000000004
+QG,Mistral-small,22,Standard,Very easy,Very easy,-2.3025
+QG,Mistral-small,24,Standard,Very easy,Very easy,-5.6688311688311686
+QG,Mistral-small,25,Fairly easy,Very easy,Very easy,-5.6482758620689655
+QG,Mistral-small,26,Fairly easy,Very easy,Very easy,-5.070833333333333
+QG,Mistral-small,27,Very easy,Very easy,Very easy,-5.7
+QG,Mistral-small,28,Standard,Very easy,Very easy,-5.143750000000001
+QG,Mistral-small,29,Standard,Very easy,Very easy,-6.4399999999999995
+QG,Mistral-small,30,Fairly easy,Very easy,Very easy,-5.7956521739130435
+QG,Mistral-small,31,Fairly easy,Very easy,Very easy,-5.882758620689655
+QG,Mistral-small,32,Standard,Very easy,Very easy,-5.477777777777778
+QG,Mistral-small,33,Fairly easy,Very easy,Very easy,-3.91860465116279
+QG,Mistral-small,34,Fairly easy,Very easy,Very easy,-6.618695652173913
+QG,Mistral-small,35,Standard,Very easy,Very easy,-5.382407407407408
+QG,Mistral-small,36,Standard,Standard,Very easy,-0.019999999999999574
+QG,Mistral-small,38,Fairly easy,Very easy,Very easy,-4.800000000000001
+QG,Mistral-small,39,Standard,Very easy,Very easy,-4.874418604651163
+QG,Mistral-small,40,Standard,Fairly difficult,Very easy,1.172727272727272
+QG,Mistral-small,41,Standard,Very easy,Very easy,-6.36867469879518
+QG,Mistral-small,42,Fairly easy,Very easy,Very easy,-6.972727272727273
+QG,Mistral-small,44,Standard,Very easy,Very easy,-4.985714285714285
+QG,Mistral-small,45,Fairly easy,Very easy,Very easy,-3.797297297297297
+QG,Mistral-small,46,Fairly easy,Very easy,Very easy,-2.0625
+QG,Mistral-small,47,Standard,Very easy,Very easy,-5.617307692307692
+QG,Mistral-small,48,Easy,Very easy,Very easy,-4.625
+QG,Mistral-small,49,Fairly difficult,Very easy,Very easy,-9.174999999999999
+QG,Mistral-small,50,Easy,Very easy,Very easy,-5.333333333333334
+QG,Mistral-small,51,Standard,Easy,Very easy,-2.2208333333333323
+QG,Mistral-small,52,Easy,Very easy,Very easy,-2.2333333333333325
+QG,Qwen/Qwen2.5-7B-Instruct,2,Standard,Very easy,Very easy,-4.374999999999999
+QG,Qwen/Qwen2.5-7B-Instruct,4,Fairly easy,Very easy,Very easy,-2.314285714285714
+QG,Qwen/Qwen2.5-7B-Instruct,5,Standard,Very easy,Very easy,-3.2666666666666675
+QG,Qwen/Qwen2.5-7B-Instruct,6,Standard,Very easy,Very easy,-5.887500000000001
+QG,Qwen/Qwen2.5-7B-Instruct,11,Fairly easy,Very easy,Very easy,-3.6133333333333333
+QG,Qwen/Qwen2.5-7B-Instruct,12,Fairly easy,Very easy,Very easy,-7.7
+QG,Qwen/Qwen2.5-7B-Instruct,13,Standard,Very easy,Very easy,-3.823376623376623
+QG,Qwen/Qwen2.5-7B-Instruct,14,Standard,Very easy,Very easy,-4.8
+QG,Qwen/Qwen2.5-7B-Instruct,15,Fairly difficult,Very easy,Very easy,-6.955555555555556
+QG,Qwen/Qwen2.5-7B-Instruct,18,Standard,Very easy,Very easy,-5.480555555555556
+QG,Qwen/Qwen2.5-7B-Instruct,20,Fairly easy,Very easy,Very easy,-5.6625
+QG,Qwen/Qwen2.5-7B-Instruct,21,Fairly easy,Very easy,Very easy,-3.4699999999999993
+QG,Qwen/Qwen2.5-7B-Instruct,22,Standard,Easy,Very easy,-3.0275
+QG,Qwen/Qwen2.5-7B-Instruct,24,Fairly difficult,Very easy,Very easy,-5.476623376623377
+QG,Qwen/Qwen2.5-7B-Instruct,25,Easy,Very easy,Very easy,-4.662068965517241
+QG,Qwen/Qwen2.5-7B-Instruct,26,Standard,Very easy,Very easy,-4.637499999999999
+QG,Qwen/Qwen2.5-7B-Instruct,27,Fairly difficult,Fairly easy,Very easy,-3.0999999999999996
+QG,Qwen/Qwen2.5-7B-Instruct,28,Fairly easy,Very easy,Very easy,-2.7562499999999996
+QG,Qwen/Qwen2.5-7B-Instruct,29,Standard,Very easy,Very easy,-5.7700000000000005
+QG,Qwen/Qwen2.5-7B-Instruct,30,Standard,Very easy,Very easy,-5.160869565217391
+QG,Qwen/Qwen2.5-7B-Instruct,31,Fairly easy,Very easy,Very easy,-3.986206896551724
+QG,Qwen/Qwen2.5-7B-Instruct,32,Standard,Very easy,Very easy,-4.588888888888889
+QG,Qwen/Qwen2.5-7B-Instruct,33,Standard,Very easy,Very easy,-2.9069767441860455
+QG,Qwen/Qwen2.5-7B-Instruct,34,Fairly easy,Very easy,Very easy,-5.775217391304348
+QG,Qwen/Qwen2.5-7B-Instruct,35,Standard,Very easy,Very easy,-4.347222222222222
+QG,Qwen/Qwen2.5-7B-Instruct,36,Fairly difficult,Easy,Very easy,-3.34
+QG,Qwen/Qwen2.5-7B-Instruct,38,Easy,Very easy,Very easy,-1.3500000000000005
+QG,Qwen/Qwen2.5-7B-Instruct,39,Standard,Very easy,Very easy,-3.975193798449613
+QG,Qwen/Qwen2.5-7B-Instruct,40,Fairly difficult,Standard,Very easy,-1.90909090909091
+QG,Qwen/Qwen2.5-7B-Instruct,41,Standard,Very easy,Very easy,-4.680722891566264
+QG,Qwen/Qwen2.5-7B-Instruct,42,Easy,Very easy,Very easy,-4.136363636363636
+QG,Qwen/Qwen2.5-7B-Instruct,44,Standard,Very easy,Very easy,-4.3999999999999995
+QG,Qwen/Qwen2.5-7B-Instruct,45,Standard,Very easy,Very easy,-5.4
+QG,Qwen/Qwen2.5-7B-Instruct,46,Fairly difficult,Very easy,Very easy,-4.8375
+QG,Qwen/Qwen2.5-7B-Instruct,47,Fairly difficult,Very easy,Very easy,-5.661538461538461
+QG,Qwen/Qwen2.5-7B-Instruct,48,Standard,Very easy,Very easy,-5.5
+QG,Qwen/Qwen2.5-7B-Instruct,49,Fairly difficult,Very easy,Very easy,-7.475
+QG,Qwen/Qwen2.5-7B-Instruct,50,Fairly easy,Very easy,Very easy,-3.754166666666667
+QG,Qwen/Qwen2.5-7B-Instruct,51,Standard,Very easy,Very easy,-3.2416666666666663
+QG,Qwen/Qwen2.5-7B-Instruct,52,Fairly difficult,Very easy,Very easy,-6.766666666666667
+QG,GPT-4.1,2,Standard,Fairly easy,Very easy,-1.6833333333333327
+QG,GPT-4.1,4,Fairly easy,Easy,Very easy,-1.185714285714286
+QG,GPT-4.1,5,Standard,Very easy,Very easy,-5.764102564102565
+QG,GPT-4.1,6,Standard,Very easy,Very easy,-8.38125
+QG,GPT-4.1,11,Standard,Very easy,Very easy,-8.483333333333334
+QG,GPT-4.1,12,Fairly difficult,Very easy,Very easy,-9.9
+QG,GPT-4.1,13,Standard,Very easy,Very easy,-8.074025974025973
+QG,GPT-4.1,14,Standard,Very easy,Very easy,-7.382352941176471
+QG,GPT-4.1,15,Fairly difficult,Very easy,Very easy,-8.677777777777777
+QG,GPT-4.1,18,Standard,Very easy,Very easy,-7.5472222222222225
+QG,GPT-4.1,20,Standard,Very easy,Very easy,-6.551785714285716
+QG,GPT-4.1,21,Standard,Very easy,Very easy,-6.37
+QG,GPT-4.1,22,Fairly difficult,Fairly easy,Very easy,-3.0424999999999995
+QG,GPT-4.1,24,Standard,Very easy,Very easy,-6.73896103896104
+QG,GPT-4.1,25,Standard,Very easy,Very easy,-7.389655172413793
+QG,GPT-4.1,26,Standard,Very easy,Very easy,-8.6
+QG,GPT-4.1,27,Fairly difficult,Very easy,Very easy,-12.0
+QG,GPT-4.1,28,Standard,Very easy,Very easy,-6.012499999999999
+QG,GPT-4.1,29,Standard,Very easy,Very easy,-8.33
+QG,GPT-4.1,30,Fairly easy,Very easy,Very easy,-6.2043478260869565
+QG,GPT-4.1,31,Standard,Very easy,Very easy,-6.427586206896552
+QG,GPT-4.1,32,Fairly difficult,Very easy,Very easy,-6.633333333333332
+QG,GPT-4.1,33,Standard,Very easy,Very easy,-3.3744186046511633
+QG,GPT-4.1,34,Standard,Very easy,Very easy,-8.835217391304349
+QG,GPT-4.1,35,Standard,Very easy,Very easy,-7.493518518518519
+QG,GPT-4.1,36,Fairly difficult,Standard,Very easy,-1.2200000000000006
+QG,GPT-4.1,38,Standard,Very easy,Very easy,-6.125
+QG,GPT-4.1,39,Standard,Very easy,Very easy,-7.21782945736434
+QG,GPT-4.1,40,Fairly difficult,Standard,Very easy,-0.672727272727272
+QG,GPT-4.1,41,Fairly difficult,Very easy,Very easy,-7.793975903614458
+QG,GPT-4.1,42,Standard,Very easy,Very easy,-7.845454545454546
+QG,GPT-4.1,44,Fairly difficult,Very easy,Very easy,-7.514285714285716
+QG,GPT-4.1,45,Standard,Very easy,Very easy,-6.956756756756757
+QG,GPT-4.1,46,Standard,Fairly easy,Very easy,-2.3375000000000004
+QG,GPT-4.1,47,Fairly difficult,Very easy,Very easy,-8.273076923076923
+QG,GPT-4.1,48,Fairly easy,Very easy,Very easy,-7.2
+QG,GPT-4.1,49,Standard,Very easy,Very easy,-3.8000000000000007
+QG,GPT-4.1,50,Fairly easy,Very easy,Very easy,-5.833333333333334
+QG,GPT-4.1,51,Fairly difficult,Fairly easy,Very easy,-2.7750000000000004
+QG,GPT-4.1,52,Standard,Very easy,Very easy,-4.0666666666666655
+QG,Mistral-large,2,Fairly easy,Very easy,Very easy,-1.7583333333333346
+QG,Mistral-large,4,Standard,Very easy,Very easy,-2.709523809523809
+QG,Mistral-large,5,Standard,Very easy,Very easy,-5.27948717948718
+QG,Mistral-large,6,Standard,Very easy,Very easy,-6.9125
+QG,Mistral-large,11,Standard,Very easy,Very easy,-7.283333333333332
+QG,Mistral-large,12,Standard,Very easy,Very easy,-7.1
+QG,Mistral-large,13,Standard,Very easy,Very easy,-5.940259740259741
+QG,Mistral-large,14,Standard,Very easy,Very easy,-6.8647058823529425
+QG,Mistral-large,15,Easy,Very easy,Very easy,-4.266666666666667
+QG,Mistral-large,18,Standard,Very easy,Very easy,-7.893055555555556
+QG,Mistral-large,20,Standard,Very easy,Very easy,-9.032142857142858
+QG,Mistral-large,21,Standard,Very easy,Very easy,-5.030000000000001
+QG,Mistral-large,22,Standard,Easy,Very easy,-2.7274999999999983
+QG,Mistral-large,24,Standard,Very easy,Very easy,-5.6688311688311686
+QG,Mistral-large,25,Standard,Very easy,Very easy,-6.855172413793103
+QG,Mistral-large,26,Standard,Very easy,Very easy,-7.970833333333333
+QG,Mistral-large,27,Standard,Very easy,Very easy,-5.5
+QG,Mistral-large,28,Standard,Very easy,Very easy,-7.737500000000001
+QG,Mistral-large,29,Standard,Very easy,Very easy,-7.179999999999999
+QG,Mistral-large,30,Fairly easy,Very easy,Very easy,-5.5782608695652165
+QG,Mistral-large,31,Standard,Very easy,Very easy,-6.641379310344828
+QG,Mistral-large,32,Fairly difficult,Very easy,Very easy,-7.577777777777778
+QG,Mistral-large,33,Standard,Very easy,Very easy,-4.4581395348837205
+QG,Mistral-large,34,Standard,Very easy,Very easy,-8.60304347826087
+QG,Mistral-large,35,Standard,Very easy,Very easy,-6.290740740740739
+QG,Mistral-large,36,Standard,Very difficult,Very easy,4.719999999999999
+QG,Mistral-large,38,Fairly difficult,Very easy,Very easy,-7.875
+QG,Mistral-large,39,Fairly difficult,Very easy,Very easy,-7.78139534883721
+QG,Mistral-large,40,Fairly difficult,Very difficult,Very easy,4.718181818181819
+QG,Mistral-large,41,Standard,Very easy,Very easy,-7.586746987951807
+QG,Mistral-large,42,Easy,Very easy,Very easy,-5.231818181818182
+QG,Mistral-large,44,Fairly difficult,Very easy,Very easy,-8.971428571428573
+QG,Mistral-large,45,Standard,Very easy,Very easy,-5.524324324324325
+QG,Mistral-large,46,Standard,Very easy,Very easy,-3.8125
+QG,Mistral-large,47,Fairly difficult,Very easy,Very easy,-7.092307692307694
+QG,Mistral-large,48,Easy,Very easy,Very easy,-4.35
+QG,Mistral-large,49,Standard,Very easy,Very easy,-5.575000000000001
+QG,Mistral-large,50,Standard,Very easy,Very easy,-7.0375000000000005
+QG,Mistral-large,51,Fairly difficult,Very easy,Very easy,-4.779166666666667
+QG,Mistral-large,52,Fairly difficult,Very easy,Very easy,-5.000000000000001
+RG,openai/gpt-oss-20b,2,Standard,Easy,Very easy,-2.966666666666667
+RG,openai/gpt-oss-20b,4,Fairly difficult,Very easy,Very easy,-6.7
+RG,openai/gpt-oss-20b,5,Fairly difficult,Very easy,Very easy,-7.464
+RG,openai/gpt-oss-20b,6,Fairly difficult,Very easy,Very easy,-6.663636363636364
+RG,openai/gpt-oss-20b,11,Fairly difficult,Very easy,Very easy,-7.752173913043478
+RG,openai/gpt-oss-20b,13,Fairly difficult,Very easy,Very easy,-7.345283018867923
+RG,openai/gpt-oss-20b,14,Fairly difficult,Very easy,Very easy,-7.44
+RG,openai/gpt-oss-20b,15,Fairly difficult,Very easy,Very easy,-6.900000000000002
+RG,openai/gpt-oss-20b,18,Fairly difficult,Very easy,Very easy,-8.834883720930232
+RG,openai/gpt-oss-20b,20,Fairly difficult,Very easy,Very easy,-8.657777777777778
+RG,openai/gpt-oss-20b,21,Fairly difficult,Very easy,Very easy,-7.533333333333332
+RG,openai/gpt-oss-20b,22,Fairly difficult,Easy,Very easy,-5.590000000000002
+RG,openai/gpt-oss-20b,24,Fairly difficult,Very easy,Very easy,-8.129824561403508
+RG,openai/gpt-oss-20b,25,Standard,Very easy,Very easy,-7.338095238095237
+RG,openai/gpt-oss-20b,26,Fairly difficult,Very easy,Very easy,-8.5
+RG,openai/gpt-oss-20b,27,Difficult,Very easy,Very easy,-13.8
+RG,openai/gpt-oss-20b,28,Fairly difficult,Very easy,Very easy,-6.500000000000001
+RG,openai/gpt-oss-20b,29,Fairly difficult,Very easy,Very easy,-7.477777777777777
+RG,openai/gpt-oss-20b,30,Fairly difficult,Very easy,Very easy,-9.005882352941176
+RG,openai/gpt-oss-20b,31,Fairly difficult,Very easy,Very easy,-6.875
+RG,openai/gpt-oss-20b,32,Very difficult,Very easy,Very easy,-9.499999999999998
+RG,openai/gpt-oss-20b,33,Fairly difficult,Very easy,Very easy,-7.136363636363636
+RG,openai/gpt-oss-20b,34,Fairly difficult,Very easy,Very easy,-9.469662921348315
+RG,openai/gpt-oss-20b,35,Fairly difficult,Very easy,Very easy,-7.506756756756756
+RG,openai/gpt-oss-20b,36,Very difficult,Standard,Very easy,-13.13333333333333
+RG,openai/gpt-oss-20b,38,Standard,Very easy,Very easy,-5.833333333333332
+RG,openai/gpt-oss-20b,39,Fairly difficult,Very easy,Very easy,-9.593258426966292
+RG,openai/gpt-oss-20b,40,Fairly difficult,Fairly difficult,Very easy,-1.4222222222222225
+RG,openai/gpt-oss-20b,41,Fairly difficult,Very easy,Very easy,-9.318333333333332
+RG,openai/gpt-oss-20b,42,Fairly difficult,Very easy,Very easy,-9.733333333333334
+RG,openai/gpt-oss-20b,44,Fairly difficult,Very easy,Very easy,-9.16
+RG,openai/gpt-oss-20b,45,Fairly difficult,Very easy,Very easy,-7.077272727272727
+RG,openai/gpt-oss-20b,46,Difficult,Very easy,Very easy,-7.114285714285715
+RG,openai/gpt-oss-20b,47,Fairly difficult,Very easy,Very easy,-8.420634920634921
+RG,openai/gpt-oss-20b,48,Very difficult,Very easy,Very easy,-10.733333333333334
+RG,openai/gpt-oss-20b,49,Very difficult,Very easy,Very easy,-10.466666666666669
+RG,openai/gpt-oss-20b,50,Standard,Very easy,Very easy,-7.4904761904761905
+RG,openai/gpt-oss-20b,51,Fairly difficult,Fairly easy,Very easy,-4.666666666666666
+RG,openai/gpt-oss-20b,52,Fairly easy,Very easy,Very easy,-2.5999999999999996
+RG,Mistral-small,2,Fairly difficult,Fairly easy,Very easy,-3.7333333333333334
+RG,Mistral-small,4,Standard,Easy,Very easy,-2.9857142857142858
+RG,Mistral-small,5,Fairly difficult,Very easy,Very easy,-7.602564102564103
+RG,Mistral-small,6,Fairly difficult,Very easy,Very easy,-9.787500000000001
+RG,Mistral-small,11,Standard,Very easy,Very easy,-7.7233333333333345
+RG,Mistral-small,12,Very easy,Very easy,Very easy,-2.6000000000000005
+RG,Mistral-small,13,Standard,Very easy,Very easy,-7.2259740259740255
+RG,Mistral-small,14,Fairly difficult,Very easy,Very easy,-6.164705882352941
+RG,Mistral-small,15,Fairly difficult,Very easy,Very easy,-8.91111111111111
+RG,Mistral-small,18,Fairly difficult,Very easy,Very easy,-8.930555555555555
+RG,Mistral-small,20,Standard,Very easy,Very easy,-7.983928571428571
+RG,Mistral-small,21,Standard,Very easy,Very easy,-8.06
+RG,Mistral-small,22,Fairly difficult,Easy,Very easy,-4.415000000000001
+RG,Mistral-small,24,Fairly difficult,Very easy,Very easy,-8.194805194805195
+RG,Mistral-small,25,Standard,Very easy,Very easy,-7.241379310344828
+RG,Mistral-small,26,Fairly difficult,Very easy,Very easy,-8.283333333333333
+RG,Mistral-small,27,Very difficult,Very easy,Very easy,-9.5
+RG,Mistral-small,28,Fairly difficult,Very easy,Very easy,-8.25625
+RG,Mistral-small,29,Fairly difficult,Very easy,Very easy,-7.59
+RG,Mistral-small,30,Fairly difficult,Very easy,Very easy,-8.513043478260869
+RG,Mistral-small,31,Fairly difficult,Very easy,Very easy,-7.324137931034484
+RG,Mistral-small,32,Fairly difficult,Very easy,Very easy,-8.177777777777779
+RG,Mistral-small,33,Fairly difficult,Very easy,Very easy,-7.606976744186047
+RG,Mistral-small,34,Fairly difficult,Very easy,Very easy,-9.53695652173913
+RG,Mistral-small,35,Fairly difficult,Very easy,Very easy,-8.14259259259259
+RG,Mistral-small,36,Difficult,Fairly difficult,Very easy,-2.7799999999999994
+RG,Mistral-small,38,Fairly difficult,Very easy,Very easy,-8.9
+RG,Mistral-small,39,Fairly difficult,Very easy,Very easy,-8.976744186046512
+RG,Mistral-small,40,Fairly difficult,Fairly difficult,Very easy,0.16363636363636402
+RG,Mistral-small,41,Fairly difficult,Very easy,Very easy,-9.150602409638555
+RG,Mistral-small,42,Standard,Very easy,Very easy,-7.881818181818182
+RG,Mistral-small,44,Fairly difficult,Very easy,Very easy,-7.828571428571428
+RG,Mistral-small,45,Fairly difficult,Very easy,Very easy,-9.145945945945947
+RG,Mistral-small,46,Fairly difficult,Very easy,Very easy,-6.7875000000000005
+RG,Mistral-small,47,Fairly difficult,Very easy,Very easy,-7.082692307692306
+RG,Mistral-small,48,Fairly difficult,Very easy,Very easy,-8.450000000000001
+RG,Mistral-small,49,Fairly difficult,Very easy,Very easy,-6.949999999999999
+RG,Mistral-small,50,Standard,Very easy,Very easy,-7.1
+RG,Mistral-small,51,Fairly difficult,Very easy,Very easy,-5.8166666666666655
+RG,Mistral-small,52,Standard,Very easy,Very easy,-4.566666666666667
+RG,Qwen/Qwen2.5-7B-Instruct,2,Fairly difficult,Fairly easy,Very easy,-3.2250000000000014
+RG,Qwen/Qwen2.5-7B-Instruct,4,Fairly difficult,Easy,Very easy,-5.461904761904761
+RG,Qwen/Qwen2.5-7B-Instruct,5,Difficult,Very easy,Very easy,-8.474358974358974
+RG,Qwen/Qwen2.5-7B-Instruct,6,Fairly difficult,Very easy,Very easy,-7.925000000000001
+RG,Qwen/Qwen2.5-7B-Instruct,11,Fairly difficult,Very easy,Very easy,-8.16
+RG,Qwen/Qwen2.5-7B-Instruct,12,Fairly difficult,Very easy,Very easy,-9.200000000000001
+RG,Qwen/Qwen2.5-7B-Instruct,13,Fairly difficult,Very easy,Very easy,-7.22987012987013
+RG,Qwen/Qwen2.5-7B-Instruct,14,Difficult,Easy,Very easy,-6.588235294117646
+RG,Qwen/Qwen2.5-7B-Instruct,15,Fairly difficult,Very easy,Very easy,-7.2
+RG,Qwen/Qwen2.5-7B-Instruct,18,Difficult,Very easy,Very easy,-9.271830985915495
+RG,Qwen/Qwen2.5-7B-Instruct,20,Fairly difficult,Very easy,Very easy,-7.364814814814815
+RG,Qwen/Qwen2.5-7B-Instruct,21,Fairly difficult,Very easy,Very easy,-8.33
+RG,Qwen/Qwen2.5-7B-Instruct,22,Fairly difficult,Fairly easy,Very easy,-4.875
+RG,Qwen/Qwen2.5-7B-Instruct,24,Difficult,Very easy,Very easy,-8.711688311688313
+RG,Qwen/Qwen2.5-7B-Instruct,25,Fairly difficult,Very easy,Very easy,-8.244827586206897
+RG,Qwen/Qwen2.5-7B-Instruct,26,Difficult,Very easy,Very easy,-8.120833333333334
+RG,Qwen/Qwen2.5-7B-Instruct,27,Standard,Very easy,Very easy,-5.800000000000001
+RG,Qwen/Qwen2.5-7B-Instruct,28,Difficult,Very easy,Very easy,-8.1625
+RG,Qwen/Qwen2.5-7B-Instruct,29,Fairly difficult,Very easy,Very easy,-7.409999999999999
+RG,Qwen/Qwen2.5-7B-Instruct,30,Fairly difficult,Very easy,Very easy,-7.065217391304348
+RG,Qwen/Qwen2.5-7B-Instruct,31,Fairly difficult,Very easy,Very easy,-7.593103448275861
+RG,Qwen/Qwen2.5-7B-Instruct,32,Fairly difficult,Very easy,Very easy,-6.1
+RG,Qwen/Qwen2.5-7B-Instruct,33,Fairly difficult,Easy,Very easy,-5.941860465116278
+RG,Qwen/Qwen2.5-7B-Instruct,34,Fairly difficult,Very easy,Very easy,-7.717467248908297
+RG,Qwen/Qwen2.5-7B-Instruct,35,Difficult,Very easy,Very easy,-8.162037037037036
+RG,Qwen/Qwen2.5-7B-Instruct,36,Very difficult,Fairly difficult,Very easy,-4.639999999999997
+RG,Qwen/Qwen2.5-7B-Instruct,38,Very difficult,Very easy,Very easy,-9.7
+RG,Qwen/Qwen2.5-7B-Instruct,39,Difficult,Very easy,Very easy,-8.63359375
+RG,Qwen/Qwen2.5-7B-Instruct,40,Difficult,Fairly difficult,Very easy,-0.3090909090909104
+RG,Qwen/Qwen2.5-7B-Instruct,41,Very difficult,Very easy,Very easy,-8.76341463414634
+RG,Qwen/Qwen2.5-7B-Instruct,42,Standard,Very easy,Very easy,-5.3136363636363635
+RG,Qwen/Qwen2.5-7B-Instruct,44,Fairly difficult,Very easy,Very easy,-7.171428571428573
+RG,Qwen/Qwen2.5-7B-Instruct,45,Difficult,Very easy,Very easy,-8.702702702702702
+RG,Qwen/Qwen2.5-7B-Instruct,46,Fairly difficult,Easy,Very easy,-6.112500000000001
+RG,Qwen/Qwen2.5-7B-Instruct,47,Very difficult,Very easy,Very easy,-8.757281553398059
+RG,Qwen/Qwen2.5-7B-Instruct,48,Fairly difficult,Very easy,Very easy,-5.824999999999999
+RG,Qwen/Qwen2.5-7B-Instruct,49,Difficult,Fairly easy,Very easy,-6.0249999999999995
+RG,Qwen/Qwen2.5-7B-Instruct,50,Fairly difficult,Very easy,Very easy,-6.545833333333334
+RG,Qwen/Qwen2.5-7B-Instruct,51,Fairly difficult,Easy,Very easy,-4.975000000000001
+RG,Qwen/Qwen2.5-7B-Instruct,52,Standard,Very easy,Very easy,-5.733333333333334
+RG,GPT-4.1,2,Fairly difficult,Fairly easy,Very easy,-3.0999999999999996
+RG,GPT-4.1,4,Fairly difficult,Fairly easy,Very easy,-3.942857142857143
+RG,GPT-4.1,5,Fairly difficult,Very easy,Very easy,-7.428205128205128
+RG,GPT-4.1,6,Fairly difficult,Very easy,Very easy,-8.287500000000001
+RG,GPT-4.1,11,Standard,Very easy,Very easy,-7.170000000000002
+RG,GPT-4.1,12,Fairly easy,Very easy,Very easy,-5.9
+RG,GPT-4.1,13,Fairly difficult,Very easy,Very easy,-8.127272727272727
+RG,GPT-4.1,14,Fairly difficult,Very easy,Very easy,-7.3352941176470585
+RG,GPT-4.1,15,Fairly difficult,Very easy,Very easy,-7.411111111111112
+RG,GPT-4.1,18,Fairly difficult,Very easy,Very easy,-8.183333333333334
+RG,GPT-4.1,20,Standard,Very easy,Very easy,-8.969642857142858
+RG,GPT-4.1,21,Fairly difficult,Very easy,Very easy,-6.349999999999999
+RG,GPT-4.1,22,Fairly difficult,Fairly easy,Very easy,-4.6
+RG,GPT-4.1,24,Fairly difficult,Very easy,Very easy,-7.423376623376624
+RG,GPT-4.1,25,Standard,Very easy,Very easy,-7.179310344827586
+RG,GPT-4.1,26,Fairly difficult,Very easy,Very easy,-8.679166666666667
+RG,GPT-4.1,27,Fairly easy,Very easy,Very easy,-5.9
+RG,GPT-4.1,28,Fairly difficult,Very easy,Very easy,-7.6000000000000005
+RG,GPT-4.1,29,Fairly difficult,Very easy,Very easy,-9.96
+RG,GPT-4.1,30,Fairly difficult,Very easy,Very easy,-7.904347826086957
+RG,GPT-4.1,31,Fairly difficult,Very easy,Very easy,-6.53103448275862
+RG,GPT-4.1,32,Fairly difficult,Very easy,Very easy,-6.955555555555557
+RG,GPT-4.1,33,Fairly difficult,Very easy,Very easy,-5.413953488372094
+RG,GPT-4.1,34,Standard,Very easy,Very easy,-8.74391304347826
+RG,GPT-4.1,35,Fairly difficult,Very easy,Very easy,-8.418518518518518
+RG,GPT-4.1,36,Fairly difficult,Fairly difficult,Very easy,-0.9800000000000004
+RG,GPT-4.1,38,Fairly difficult,Very easy,Very easy,-5.85
+RG,GPT-4.1,39,Fairly difficult,Very easy,Very easy,-8.970542635658916
+RG,GPT-4.1,40,Fairly difficult,Fairly difficult,Very easy,-1.7363636363636363
+RG,GPT-4.1,41,Fairly difficult,Very easy,Very easy,-8.871084337349398
+RG,GPT-4.1,42,Fairly difficult,Very easy,Very easy,-9.268181818181818
+RG,GPT-4.1,44,Difficult,Very easy,Very easy,-9.82857142857143
+RG,GPT-4.1,45,Fairly difficult,Very easy,Very easy,-7.975675675675676
+RG,GPT-4.1,46,Fairly difficult,Easy,Very easy,-4.612499999999999
+RG,GPT-4.1,47,Fairly difficult,Very easy,Very easy,-7.775
+RG,GPT-4.1,48,Fairly difficult,Very easy,Very easy,-7.6
+RG,GPT-4.1,49,Fairly difficult,Very easy,Very easy,-6.625
+RG,GPT-4.1,50,Fairly difficult,Very easy,Very easy,-8.012500000000001
+RG,GPT-4.1,51,Fairly difficult,Easy,Very easy,-4.404166666666668
+RG,GPT-4.1,52,Standard,Easy,Very easy,-2.7666666666666675
+RG,Mistral-large,2,Fairly difficult,Easy,Very easy,-3.67
+RG,Mistral-large,4,Fairly difficult,Fairly easy,Very easy,-2.9571428571428564
+RG,Mistral-large,5,Standard,Very easy,Very easy,-6.020689655172413
+RG,Mistral-large,6,Fairly difficult,Very easy,Very easy,-7.700000000000001
+RG,Mistral-large,11,Fairly difficult,Very easy,Very easy,-7.579999999999998
+RG,Mistral-large,12,Fairly easy,Very easy,Very easy,-6.1
+RG,Mistral-large,13,Fairly difficult,Very easy,Very easy,-6.965714285714286
+RG,Mistral-large,14,Fairly difficult,Very easy,Very easy,-7.185714285714286
+RG,Mistral-large,15,Standard,Very easy,Very easy,-6.21111111111111
+RG,Mistral-large,18,Fairly difficult,Very easy,Very easy,-8.547887323943662
+RG,Mistral-large,20,Standard,Very easy,Very easy,-8.073214285714286
+RG,Mistral-large,21,Fairly difficult,Very easy,Very easy,-8.655555555555557
+RG,Mistral-large,22,Fairly difficult,Fairly easy,Very easy,-3.1128205128205115
+RG,Mistral-large,24,Fairly difficult,Very easy,Very easy,-7.8014925373134325
+RG,Mistral-large,25,Fairly difficult,Very easy,Very easy,-7.589655172413794
+RG,Mistral-large,26,Fairly difficult,Very easy,Very easy,-7.4375
+RG,Mistral-large,27,Very difficult,Very easy,Very easy,-11.600000000000001
+RG,Mistral-large,28,Fairly difficult,Very easy,Very easy,-7.628571428571428
+RG,Mistral-large,29,Fairly difficult,Very easy,Very easy,-7.58
+RG,Mistral-large,30,Standard,Very easy,Very easy,-6.704761904761906
+RG,Mistral-large,31,Fairly difficult,Very easy,Very easy,-8.022222222222222
+RG,Mistral-large,32,Standard,Very easy,Very easy,-6.37142857142857
+RG,Mistral-large,33,Fairly difficult,Very easy,Very easy,-5.468571428571428
+RG,Mistral-large,34,Standard,Very easy,Very easy,-8.405240174672489
+RG,Mistral-large,35,Fairly difficult,Very easy,Very easy,-7.601960784313725
+RG,Mistral-large,36,Fairly difficult,Fairly difficult,Very easy,0.35999999999999943
+RG,Mistral-large,38,Fairly difficult,Very easy,Very easy,-9.5
+RG,Mistral-large,39,Fairly difficult,Very easy,Very easy,-8.236036036036037
+RG,Mistral-large,40,Fairly difficult,Difficult,Very easy,2.336363636363636
+RG,Mistral-large,41,Fairly difficult,Very easy,Very easy,-8.119753086419752
+RG,Mistral-large,42,Standard,Very easy,Very easy,-7.968181818181819
+RG,Mistral-large,44,Fairly difficult,Very easy,Very easy,-9.871428571428572
+RG,Mistral-large,45,Fairly difficult,Very easy,Very easy,-7.427272727272727
+RG,Mistral-large,46,Fairly difficult,Very easy,Very easy,-5.825
+RG,Mistral-large,47,Fairly difficult,Very easy,Very easy,-6.8936170212765955
+RG,Mistral-large,48,Difficult,Very easy,Very easy,-9.433333333333335
+RG,Mistral-large,49,Fairly difficult,Very easy,Very easy,-4.633333333333332
+RG,Mistral-large,50,Standard,Very easy,Very easy,-7.478260869565219
+RG,Mistral-large,51,Fairly difficult,Very easy,Very easy,-6.0086956521739125
+RG,Mistral-large,52,Very difficult,Standard,Very easy,-7.699999999999999

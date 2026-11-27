@@ -1,0 +1,10 @@
+[
+  {
+    "transcript_id": "08",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "condition": "baseline",
+    "turn_index": 43,
+    "prompt": "You are a journalistic interviewer speaking with a Holocaust survivor.\nYou did not experience the Holocaust yourself and speak exclusively from the perspective of the interviewer, you are not the person concerned in the events discussed.\n\nTask:\nGenerate a new, original follow-up question based on the dialogue below, which the interviewer (you) might ask.\n\nRestrictions:\n- Use spoken language.\n- Ensure grammatical correctness.\n- Output only the new, original question, without explanations or extra text.\n- Do not use emojis, emoticons, or symbols such as 🙂, 🤓, etc.\n- Respond from the perspective of the interviewer, not the interviewee.\n\nOutput format:\nInterviewer: <your follow-up question>\n\nDialogue:\nInterviewer: It must have been very terrifying not to be able to hind her.\nInterviewee: I do not know how or where I got the strength. I was a nervous wreck.\nInterviewer: Ok So, then what happened? You said the Germans were leaving. Was that because the war was coming to an end?\nInterviewee: That is right. They leave.. The Russians were coming.\n\n\n",
+    "response": "Interviewer: How did you and the other prisoners react when you realized the Germans were撤离是因为战争即将结束吗？俄国人正在到来？\n\n看起来我在回答时使用了中文，但根据您的要求，我需要提供一个基于对话的新的、原创的英文后续问题。请允许我重新尝试：\n\nInterviewer: What were your initial thoughts and feelings when you realized the Russians were approaching?"
+  }
+]
